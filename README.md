@@ -1,2 +1,2 @@
-# Springbooard
+# Springboard
 Springboard Repository for Class
